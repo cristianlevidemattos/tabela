@@ -1,0 +1,14 @@
+table  {
+    Background: blue;
+}
+
+thead  {
+    Background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td  {
+    border: 1px solid  #000000;
+    border-color:  red;
+}
